@@ -1,2 +1,2 @@
 # Weather-Forecast-Web-Scraping
-Program to get weather news from -http://metservice.intnet.mu/index.php-
+Program to get weather forecast news from -http://metservice.intnet.mu/forecast-bulletin-french-mauritius.php-
