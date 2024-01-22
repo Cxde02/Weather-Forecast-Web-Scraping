@@ -25,11 +25,11 @@ if response.status_code == 200:
         text_content = "\n".join(paragraph.get_text(strip=True) for paragraph in paragraphs)
 
         # Save the text content to a Notepad file
-        with open("Weather News.txt", "w", encoding="utf-8") as file:
+        with open("Weather_News.txt", "w", encoding="utf-8") as file:
             file.write(text_content)
 
         print('\n----------------------------------------')
-        print("Weather news saved to 'weather_news.txt'")
+        print("Weather news saved to 'Weather_News.txt'")
         print('----------------------------------------')
 
 
