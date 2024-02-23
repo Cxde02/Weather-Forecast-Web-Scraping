@@ -1,2 +1,2 @@
 # Weather-Forecast-Web-Scraping
-Program to get weather forecast news from Mauritius Meteorological Services Website
+Program to get weather forecast news from Mauritius Meteorological Services Website using BeautifulSoup
